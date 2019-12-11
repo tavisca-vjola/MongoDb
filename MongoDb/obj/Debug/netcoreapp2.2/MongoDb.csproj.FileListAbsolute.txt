@@ -1,0 +1,8 @@
+C:\Users\vjola\source\repos\MongoDb\MongoDb\bin\Debug\netcoreapp2.2\MongoDb.deps.json
+C:\Users\vjola\source\repos\MongoDb\MongoDb\bin\Debug\netcoreapp2.2\MongoDb.runtimeconfig.json
+C:\Users\vjola\source\repos\MongoDb\MongoDb\bin\Debug\netcoreapp2.2\MongoDb.runtimeconfig.dev.json
+C:\Users\vjola\source\repos\MongoDb\MongoDb\bin\Debug\netcoreapp2.2\MongoDb.dll
+C:\Users\vjola\source\repos\MongoDb\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.csprojAssemblyReference.cache
+C:\Users\vjola\source\repos\MongoDb\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.csproj.CoreCompileInputs.cache
+C:\Users\vjola\source\repos\MongoDb\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.AssemblyInfoInputs.cache
+C:\Users\vjola\source\repos\MongoDb\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.AssemblyInfo.cs
